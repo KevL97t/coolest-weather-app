@@ -1,0 +1,41 @@
+.main-card-container{
+    width: 60vw;
+    height: 40vh;
+    max-width: 350px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    padding-bottom: 20px;
+    background: linear-gradient(to bottom, #56ccf2, #2f80ed);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.details-button{
+    text-decoration: none;
+    color: black;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: center;
+    align-self: center;
+    padding-top: 10px;
+    background-color: rgb(240, 216, 81);
+    border-radius: 8px;
+    font-weight: bold;
+    color: rgb(26, 100, 160);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    cursor: pointer;
+}
+
+.card-temp{
+    font-size: 50px;
+    color: white;
+}
+
+.card-name{
+    font-size: 20px;
+    color: white;
+}

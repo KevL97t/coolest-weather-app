@@ -1,0 +1,21 @@
+.details-page-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom, #56ccf2, #2f80ed);
+}
+
+.go-back-button{
+    width: 100px;
+    height: 40px;
+    align-self: center;
+    background-color: rgb(240, 216, 81);
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
