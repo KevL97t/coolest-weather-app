@@ -6,7 +6,7 @@ function WeatherIcon({ icon }) {
 
     return (
         <div className="weatherIcon-container">
-            <img className="WeatherIcon" src={iconUrl}/>
+            <img className="WeatherIcon" src={iconUrl} alt="weather-icon"/>
         </div>
     );
 }

@@ -1,8 +1,6 @@
 import SearchBar from "../../Components/SearchBar";
 import './Home.styles.css'
 
-
-
 function Home() {
     return (
         <div className="home-main-container">

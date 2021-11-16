@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Details from "../Pages/Details/Details";
 import CityCard from "./CityCard";
 import Loader from "./Loader";
 import './SearchBar.styles.css'
