@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coolest-weather-app/static/css/main.4c3ae402.chunk.css",
+    "main.js": "/coolest-weather-app/static/js/main.8aede42e.chunk.js",
+    "main.js.map": "/coolest-weather-app/static/js/main.8aede42e.chunk.js.map",
+    "runtime-main.js": "/coolest-weather-app/static/js/runtime-main.13078b91.js",
+    "runtime-main.js.map": "/coolest-weather-app/static/js/runtime-main.13078b91.js.map",
+    "static/js/2.42be71a5.chunk.js": "/coolest-weather-app/static/js/2.42be71a5.chunk.js",
+    "static/js/2.42be71a5.chunk.js.map": "/coolest-weather-app/static/js/2.42be71a5.chunk.js.map",
+    "static/js/3.9472d552.chunk.js": "/coolest-weather-app/static/js/3.9472d552.chunk.js",
+    "static/js/3.9472d552.chunk.js.map": "/coolest-weather-app/static/js/3.9472d552.chunk.js.map",
+    "index.html": "/coolest-weather-app/index.html",
+    "static/css/main.4c3ae402.chunk.css.map": "/coolest-weather-app/static/css/main.4c3ae402.chunk.css.map",
+    "static/js/2.42be71a5.chunk.js.LICENSE.txt": "/coolest-weather-app/static/js/2.42be71a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13078b91.js",
+    "static/js/2.42be71a5.chunk.js",
+    "static/css/main.4c3ae402.chunk.css",
+    "static/js/main.8aede42e.chunk.js"
+  ]
+}
