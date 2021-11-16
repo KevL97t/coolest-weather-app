@@ -2,6 +2,7 @@
   "name": "coolest-weather-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kevl97t.github.io/coolest-weather-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -41,6 +42,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  },
-  "homepage": "https://kevl97t.github.io/coolest-weather-app"
+  }
 }
